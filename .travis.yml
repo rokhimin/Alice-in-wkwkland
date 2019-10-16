@@ -1,4 +1,4 @@
 language: elixir
-elixir: 1.9.2
+elixir: 1.7
 otp_release: 21.0
 sudo: false
