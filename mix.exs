@@ -23,6 +23,7 @@ defmodule AliceInWkwkland.MixProject do
       {:poison, "~> 3.0"},
       {:plug, "~> 1.6"},
       {:cowboy, "~> 2.4"},
+      {:plug_cowboy, "~> 2.0"},
       {:credo, "~> 0.10", except: :prod, runtime: false}
     ]
   end
